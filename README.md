@@ -49,7 +49,7 @@ Long-term: To develop innovative solutions in AI and system integration, and to 
 
 
 
-****© 2024 Mervlot. All Rights Reserved.***
+***© 2024 Mervlot. All Rights Reserved.***
 
 
 This copyright notice covers all content produced by or for Mervlot, including but not limited to:
