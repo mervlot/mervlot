@@ -1,3 +1,8 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="IMG/mervlot.png" width="700px">
+  </picture>
+</div>
 - 👋 Hi, I’m Ogunmuyiwa Muhammad
 - 👀 I’m interested in rugby 🏉
 - 🌱 I’m currently learning ML and AI
