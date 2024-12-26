@@ -1,6 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="IMG/mervlot.png" width="700px">
+  <img src="IMG/mervlot.png" width="700px">
   </picture>
 </div>
 
