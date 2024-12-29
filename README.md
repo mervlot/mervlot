@@ -14,7 +14,7 @@ CEO | Developer | Innovator
 
 I am the CEO of Mervlot Tech, a technology company I founded to innovate and build the future. I started coding at the age of 13, and over the years, I’ve gained experience in Python, Node.js, and frontend development. Though I’m still on my journey to mastering these skills, I’m passionate about building impactful technology.
 
-I was born on June 30, 2009, and I’m a proud Nigerian. I’ve completed secondary school, where I earned a B in Physics, Chemistry, and Biology in my NECO exams. Currently, I am focused on expanding my knowledge and skills, particularly in the areas of artificial intelligence, system development, and web technologies.
+I was born on June 30, 2009, and I’m a proud Nigerian. I am focused on expanding my knowledge and skills, particularly in the areas of artificial intelligence, system development, and web technologies.
 
 **Skills**
 
@@ -31,6 +31,7 @@ Tools: GitHub
 AI Chatbot Prototype
 
 Created a simple chatbot using Python, and Nodejs as the web server interface demonstrating an understanding of AI concepts and natural language processing.
+
 
 **Education**
 
