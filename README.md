@@ -3,7 +3,7 @@
 </div>
 
 ##  **Mervlot** 
-Mervlot is a place were ehere marvel meets innovation
+Mervlot is a place were marvel meets innovation
 ##  **my portfolio**
 Mervlot Tech: Portfolio of Ogunmuyiwa Muhammad 
 
