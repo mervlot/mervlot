@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="IMG/mervlot.png" width="700px">
+  <img src="IMG/merv.png" width="700px">
 </div>
 
 ##  **Mervlot** 
