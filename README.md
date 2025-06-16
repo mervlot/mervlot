@@ -31,10 +31,10 @@ DataSience: Numpy, Pandas.
 Tools: GitHub
 
 **Projects**
+Portfolio
+Made A portfolio and deployed it at <a href="https://mervlot.github.io">My Portfolio</a>
 
-AI Chatbot Prototype
 
-Created a simple chatbot using Python, Sklearn, and Nodejs as the web server interface demonstrating an understanding of AI concepts and natural language processing.
 
 
 **Education**
