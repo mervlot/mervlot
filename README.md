@@ -2,85 +2,112 @@
   <img src="20250202_105956_0000.png" width="700px">
 </div>
 
-##  **Mervlot** 
-Mervlot is a place were marvel meets innovation
-##  **my portfolio**
-Mervlot Tech: Portfolio of Ogunmuyiwa Muhammad 
+# **Mervlot**
+⚡ Where Marvel meets Innovation ⚡  
 
-CEO | Developer | Innovator
+---
 
+## 👤 **About Me**  
+I’m **Ogunmuyiwa Muhammad**, a teenage developer passionate about **coding and innovation**.  
+Started coding at **13**, now building projects across **frontend, backend, and AI**.  
 
-**About Me**
+🌍 My focus:  
+- Artificial Intelligence 🤖  
+- Full-Stack Web Development 🌐  
+- System Development ⚙️  
 
-I am Ogunmuyiwa Muhammad a teenager passionate about coding. I started coding at the age of 13, and over the years, I’ve gained experience in Python, Node.js, machine-learning and frontend development. Though I’m still on my journey to mastering these skills, I’m passionate about building impactful technology.
+Always learning, always building. 🚀  
 
-I am focused on expanding my knowledge and skills, particularly in the areas of artificial intelligence, system development, and web technologies.
+---
 
-**Skills**
+## 🛠 **Skills**  
 
-Programming Languages: Python, JavaScript (Node.js), HTML, CSS
+**Languages:**  
+- Python 🐍  
+- JavaScript (ES6+) ⚡  
+- TypeScript 🔷
+- Assembly (low-level exploration) i just know abit of x86(32bit) and risc-V
+- C (low-level exploration) ⚙️  
+- HTML5 / CSS3 🎨  
 
-API Frameworks: Express.js.
+**Frameworks & Libraries:**  
+- React ⚛️  
+- Next.js 🚀  
+- Express.js 🌐  
+- TailwindCSS 💨  
 
-Databases: MySQL, Mariadb, Sqlite.
+**Databases:**  
+- MySQL / MariaDB / SQLite 🗄️  
+- MongoDB 🍃  
 
-Machine Learning: Scikit-learn.
+**Machine Learning / Data Science:**  
+- Scikit-learn 🤖  
+- Numpy, Pandas 📊  
 
-DataSience: Numpy, Pandas.
+**Tools & Systems:**  
+- Git & GitHub 🐙  
+- Linux (Debian, Arch, Kali, XFCE) 🐧  
+- Docker (basics) 🐳  
+- Vercel ⚡  
 
-Tools: GitHub
+---
 
-**Projects**
-Portfolio
-Made A portfolio and deployed it at <a href="https://mervlot.github.io">My Portfolio</a>
+## 🚀 **Projects**  
 
+- **[Oxaley](https://mervlot.github.io/Oxaley/)** → A modern designer blog website.  
+- **[MervDash](https://mervdash.vercel.app/)** → Custom React dashboard for data visualization & admin tooling.  
+- **[MervFolio](https://mervlot.vercel.app/)** → My personal portfolio site, built with React + Tailwind.  
+- **[MervFlix](https://mervflix.vercel.app/)** → Netflix-inspired movie app with API integration.  
 
+---
 
+## 🎯 **Goals**  
 
-**Education**
+- **Short-term** → Deepen mastery in **Python, Node.js, ML/AI, and full-stack development**.  
+- **Long-term** → Build **Mervlot Tech**, a company shaping the future of technology.  
 
-Self-Taught Developer: Continuously learning through online courses, tutorials, and hands-on practice.
+---
 
-**Goals**
+## 📚 **Education**  
+- **Self-taught developer**: Learning daily via courses, tutorials, and hands-on projects.  
 
-Short-term: To improve my proficiency in Python, Node.js, ML and AI and frontend development.
+---
 
-Long-term: To develop innovative solutions in AI and system integration, and establish my dream company Mervlot Tech to be a company that shapes the future of technology.
+## 🔗 **Connect with Me**  
 
+<p align="center">
+  <a href="https://github.com/mervlot">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mervlotstudio">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@mervlotstudio">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mervlotstudio">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:Princeadeite09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>  
 
-## **Mervlot Copyright Notice**
+---
 
+## ⚖️ **Copyright Notice**  
 
+***© 2025 Mervlot. All Rights Reserved.***  
 
-***© 2024 Mervlot. All Rights Reserved.***
+This copyright covers all content under **Mervlot**, including:  
+- Text, blog posts, documentation  
+- Images, graphics, logos  
+- Audio/video materials  
+- Software & source code  
+- Data compilations  
 
+No part of this may be reproduced, modified, or used commercially without explicit written permission. 🚫  
 
-This copyright notice covers all content produced by or for Mervlot, including but not limited to:
+📧 Contact for permissions: **Princeadeite09@gmail.com**  
 
-Textual content (articles, blog posts, documentation)
-
-Visual elements (images, graphics, logos)
-
-Audio and video materials
-
-Software, source code, and digital downloads
-
-Data compilations
-
-
-All rights are reserved. No part of this content may be reproduced, distributed, modified, publicly displayed, or used in any commercial manner without explicit written permission from Mervlot. Unauthorized use is strictly prohibited and may result in legal action.
-
-
-For inquiries regarding permissions or for any copyright-related questions, please contact us at:
-
-Gmail:Princeadeite09@gmail.com
-
-Hotmail:Adeite09@hotmail.com
-
-Facebook: Muhammad Ogunmuyiwa
-
-Tiktok:@prince_adeite
-
-Twitter(X):@prince_adeite
-
-WhatsApp:08127291076
+---
