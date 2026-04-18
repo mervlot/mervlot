@@ -1,113 +1,96 @@
-<div align="center">
-  <img src="20250202_105956_0000.png" width="700px">
-</div>
+<div align="center">  
+  <img src="20250202_105956_0000.png" width="700px">  
+</div>  
 
-# **Mervlot**
-⚡ Where Marvel meets Innovation ⚡  
-
----
-
-## 👤 **About Me**  
-I’m **Ogunmuyiwa Muhammad**, a teenage developer passionate about **coding and innovation**.  
-Started coding at **13**, now building projects across **frontend, backend, and AI**.  
-
-🌍 My focus:  
-- Artificial Intelligence 🤖  
-- Full-Stack Web Development 🌐  
-- System Development ⚙️  
-
-Always learning, always building. 🚀  
+# **Mervlot**  
+⚡ Building systems, tools, and real-world applications ⚡  
 
 ---
 
-## 🛠 **Skills**  
+## 👤 About Me  
+I’m **Ogunmuyiwa Muhammad**, a developer focused on building **real systems and tools**.
+
+I work across:
+- 🌐 Web Development  
+- ⚙️ System-Level Programming  
+- 🔐 Ethical Hacking  
+
+I don’t just code—I build things that solve problems.
+
+---
+
+## 🛠 Tech Stack  
 
 **Languages:**  
-- Python 🐍  
 - JavaScript (ES6+) ⚡  
-- TypeScript 🔷
-- Assembly (low-level exploration) i just know abit of x86(32bit) and risc-V
-- C (low-level exploration) ⚙️  
-- HTML5 / CSS3 🎨  
+- TypeScript 🔷  
+- Go 🐹  
+- Kotlin ☕  
+- Python 🐍  
+- Bash 🖥️  
+- C ⚙️  
 
-**Frameworks & Libraries:**  
+**Frameworks & Tools:**  
 - React ⚛️  
 - Next.js 🚀  
 - Express.js 🌐  
+- Gin (Go) ⚡  
 - TailwindCSS 💨  
 
 **Databases:**  
-- MySQL / MariaDB / SQLite 🗄️  
 - MongoDB 🍃  
+- PostgreSQL 🐘  
 
-**Machine Learning / Data Science:**  
-- Scikit-learn 🤖  
-- Numpy, Pandas 📊  
-
-**Tools & Systems:**  
+**Systems & Tools:**  
+- Linux (Debian, Arch, XFCE) 🐧  
 - Git & GitHub 🐙  
-- Linux (Debian, Arch, Kali, XFCE) 🐧  
 - Docker (basics) 🐳  
-- Vercel ⚡  
 
 ---
 
-## 🚀 **Projects**  
+## 🚀 What I Build  
 
-- **[Oxaley](https://mervlot.github.io/Oxaley/)** → A modern designer blog website.  
-- **[MervDash](https://mervdash.vercel.app/)** → Custom React dashboard for data visualization & admin tooling.  
-- **[MervFolio](https://mervlot.vercel.app/)** → My personal portfolio site, built with React + Tailwind.  
-- **[MervFlix](https://mervflix.vercel.app/)** → Netflix-inspired movie app with API integration.  
-
----
-
-## 🎯 **Goals**  
-
-- **Short-term** → Deepen mastery in **Python, Node.js, ML/AI, and full-stack development**.  
-- **Long-term** → Build **Mervlot Tech**, a company shaping the future of technology.  
+- Full-stack web applications  
+- Developer tools & automation systems  
+- Backend APIs and services  
+- System-level projects  
 
 ---
 
-## 📚 **Education**  
-- **Self-taught developer**: Learning daily via courses, tutorials, and hands-on projects.  
+## 🎯 Focus  
+
+- Building the **Mervlot ecosystem**  
+- Creating tools developers actually use  
+- Growing into system-level and infrastructure engineering  
 
 ---
 
-## 🔗 **Connect with Me**  
+## 📌 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/mervlot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mervlotstudio">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://tiktok.com/@mervlotstudio">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="https://x.com/mervlotstudio">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:Princeadeite09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+- **MervTask** → Task management system (Go + React + React Native)  
+- **KPM** → Kotlin Package Manager (alternative to Maven/Gradle)  
+- **MervOS** → Low-level system project in C  
+- **Mervlot Mail Engine** → Email automation tool  
+
+---
+
+## 🔗 Connect  
+
+<p align="center">  
+  <a href="https://github.com/mervlot">  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  </a>  
+  <a href="https://x.com/MervlotStudio">  
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>  
+  </a>  
+  <a href="mailto:mervlot@outlook.com">  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>  
 </p>  
 
 ---
 
-## ⚖️ **Copyright Notice**  
+## ⚖️ Note  
 
-***© 2025 Mervlot. All Rights Reserved.***  
-
-This copyright covers all content under **Mervlot**, including:  
-- Text, blog posts, documentation  
-- Images, graphics, logos  
-- Audio/video materials  
-- Software & source code  
-- Data compilations  
-
-No part of this may be reproduced, modified, or used commercially without explicit written permission. 🚫  
-
-📧 Contact for permissions: **Princeadeite09@gmail.com**  
-
----
+This GitHub is an active workspace.  
+Some projects are experimental or in progress.
